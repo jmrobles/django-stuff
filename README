@@ -1,0 +1,19 @@
+Django staff
+============
+
+· Some small utilites that make Django life easier
+· Categories:
+	- templatetags: some custom filters & tags
+		- empty: replace NULL o empty string values with i18n value
+	    - mapval: map keys to values, example: ('m','f') => ('male','female')
+        - datelocal: render UTC DateTime to client localtime
+
+
+
+- License
+  =======
+ 
+   You can do with this staff whatever you want :)
+
+
+  
